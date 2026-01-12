@@ -1,4 +1,6 @@
-# LDAP is protocol that is used in the authentication and authorization process in ADs or any domain controllers
+# LDAP injection
+
+LDAP is protocol that is used in the authentication and authorization process in ADs or any domain controllers
 
 
 we use alway true data to bypass authentication like sql but here we are malipulating the query itself 
